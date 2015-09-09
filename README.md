@@ -8,4 +8,6 @@
 
 
 
-You can see (justrelease.yml) file which includes release configs.
+You can see [justrelease.yml](https://github.com/justrelease/justrelease-sample-maven/blob/master/justrelease.yml) file which includes release configs.
+
+Note: You can download JustRelease [from here](https://github.com/justrelease/justrelease/releases)
